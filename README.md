@@ -109,3 +109,9 @@ Report precision, recall and mAP for object detection using labelled test footag
 
 ## Data and privacy
 Use footage you own or are authorized to process. Avoid collecting or publishing identifiable faces, license plates or other personal data. Follow local privacy, traffic-surveillance and data-retention requirements. This project is for research and demonstration, not enforcement or safety-critical control.
+
+## Author
+
+**Mohamed Riyaz S.**  
+Integrated M.Tech, Computer Science and Engineering (Business Analytics)  
+VIT Chennai
