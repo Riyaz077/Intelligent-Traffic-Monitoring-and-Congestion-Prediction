@@ -1,4 +1,6 @@
-# Intelligent Traffic Monitoring and Congestion Prediction
+# Smart-Traffic-Analytics
+
+## Intelligent Traffic Monitoring and Congestion Prediction
 
 An end-to-end computer-vision starter project for analyzing traffic videos, detecting road users, estimating traffic density, and producing interpretable congestion indicators through an interactive Streamlit dashboard.
 
