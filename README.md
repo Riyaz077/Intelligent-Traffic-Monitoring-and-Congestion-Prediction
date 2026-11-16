@@ -66,25 +66,17 @@ Dashboard, visualizations and CSV report
 └── README.md
 ```
 
-## Installation
-Python 3.10 or 3.11 is recommended.
-```bash
-python -m venv .venv
-# Windows PowerShell:
-.venv\\Scripts\\Activate.ps1
-# macOS/Linux:
-source .venv/bin/activate
-pip install -r requirements.txt
-```
+## **Installation & Setup**
 
-The app uses Ultralytics YOLO and may download pretrained weights on first run. Ensure you have permission to use the selected weights and comply with their license and terms.
-
-## Run
-```bash
-streamlit run dashboard/app.py
-```
-Upload a short traffic video, choose frame sampling interval and confidence threshold, then start analysis.
-
+- Ensure Python 3.10 or 3.11 is installed.
+- Create and activate a Python virtual environment.
+- Install the required dependencies using `requirements.txt`.
+- Ensure the selected Ultralytics YOLO pretrained weights are downloaded and properly licensed.
+- Launch the Streamlit traffic monitoring dashboard.
+- Upload a traffic video in the supported format.
+- Configure the frame sampling interval and detection confidence threshold.
+- Start the analysis to generate traffic detection and monitoring results.
+  
 ## Output
 - Annotated sample frame
 - Frame-level counts for car, motorcycle, bus and truck
